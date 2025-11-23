@@ -7,8 +7,6 @@ I'm a **programmer and student** currently exploring Python and Flask. I'm passi
 ## 🌱 Currently Learning
 - **Python** – Core programming and scripting
 - **Flask** – Backend web development  
-- Working on **projects**:  
-  - [Sentra](https://sentra.thepolar.in) – [Project Link](https://sentra.thepolar.in)  
   - [Learnreel](https://learnreel.thepolar.in) – [Project Link](https://learnreel.thepolar.in)  
 
 *Next on my roadmap:* Linux & system-level programming.
